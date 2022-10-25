@@ -1,0 +1,3 @@
+[submodule "BlueResto"]
+	path = BlueResto
+	url = https://github.com/darthcloud/BlueRetro.git
